@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yacobarriajaen/Desktop/NoelChacon/AppRazor/AppRazor/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AppRazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AppRazor.props",
+      "PackagePath": "build\\AppRazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AppRazor.props",
+      "PackagePath": "buildMultiTargeting\\AppRazor.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AppRazor.props",
+      "PackagePath": "buildTransitive\\AppRazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

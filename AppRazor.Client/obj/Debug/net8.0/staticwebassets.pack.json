@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yacobarriajaen/Desktop/NoelChacon/AppRazor/AppRazor.Client/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/yacobarriajaen/Desktop/NoelChacon/AppRazor/AppRazor.Client/obj/Debug/net8.0/compressed/0uvf3r9fbr.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/yacobarriajaen/Desktop/NoelChacon/AppRazor/AppRazor.Client/wwwroot/appsettings.Development.json",
+      "PackagePath": "staticwebassets/appsettings.Development.json"
+    },
+    {
+      "Id": "/Users/yacobarriajaen/Desktop/NoelChacon/AppRazor/AppRazor.Client/wwwroot/appsettings.json",
+      "PackagePath": "staticwebassets/appsettings.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AppRazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.AppRazor.Client.props",
+      "PackagePath": "build\\AppRazor.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AppRazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\AppRazor.Client.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AppRazor.Client.props",
+      "PackagePath": "buildTransitive\\AppRazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
